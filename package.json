@@ -1,6 +1,6 @@
 {
   "name": "your-app-name",
-  "homepage": "https://solheim.online",
+  "homepage": "https://kianosh-solheim.github.io/Oivind/",
   "dependencies": {
     "buffer": "^6.0.3",
     "firebase": "^11.9.0",
